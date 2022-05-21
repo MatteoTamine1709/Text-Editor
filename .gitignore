@@ -1,0 +1,7 @@
+build/
+.vscode/
+test.c
+a.out
+lol
+tmp
+vim
